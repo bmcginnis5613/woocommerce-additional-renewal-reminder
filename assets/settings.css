@@ -1,0 +1,20 @@
+.ceg-second-reminder-timing {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    width: 100%;
+    max-width: 100%;
+}
+
+.ceg-second-reminder-timing__field {
+    flex: 1 1 0;
+    min-width: 0;
+}
+
+.ceg-second-reminder-timing__field > input,
+.ceg-second-reminder-timing__field > select {
+    box-sizing: border-box;
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+}
