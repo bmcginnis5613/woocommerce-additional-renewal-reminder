@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: WooCommerce Additonal Renewal Reminder
+ * Plugin Name: WooCommerce Additional Renewal Reminder
  * Description: Adds a second renewal reminder to WooCommerce Subscriptions using existing notification emails.
  * Author: FirstTracks Marketing
  * Author URI: https://firsttracksmarketing.com/
- * Version: 1.0.0
+ * Version: 1.0.1
  */
 
 defined( 'ABSPATH' ) || exit;
